@@ -1,0 +1,11 @@
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\bin\Debug\CanvaClase180123.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\bin\Debug\CanvaClase180123.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\bin\Debug\CanvaClase180123.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.Form1.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\CanvaClase180123\CanvaClase180123\obj\Debug\CanvaClase180123.pdb
